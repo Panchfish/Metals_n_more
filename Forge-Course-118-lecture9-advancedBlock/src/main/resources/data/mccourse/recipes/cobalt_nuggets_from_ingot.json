@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "metals:cobalt_ingot"
+    }
+  ],
+  "result": {
+    "item": "metals:cobalt_nugget",
+    "count": 9
+  }
+}

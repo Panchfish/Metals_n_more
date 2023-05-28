@@ -1,0 +1,17 @@
+{
+  "item.metals.cobalt_ingot": "Cobalt Ingot",
+  "item.metals.cobalt_nugget": "Cobalt Nugget",
+  "item.metals.raw_cobalt": "Raw Cobalt",
+  "item.metals.dowsing_rod": "Dowsing Rod",
+
+
+  "block.metals.cobalt_block": "Cobalt Block",
+  "block.metals.cobalt_ore": "Cobalt Ore",
+  "block.metals.raw_cobalt_block": "Raw Cobalt Block",
+  "block.metals.deepslate_cobalt_ore": "Deepslate Cobalt Ore",
+  "block.metals.speedy_block": "Speedy Block",
+
+  "itemGroup.coursemodtab": "metals Mod",
+
+  "item.metals.dowsing_rod.no_valuables": "No Valuables Found!"
+}

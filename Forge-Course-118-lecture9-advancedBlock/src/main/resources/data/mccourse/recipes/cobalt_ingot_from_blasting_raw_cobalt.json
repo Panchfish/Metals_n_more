@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:blasting",
+  "ingredient": {
+    "item": "metals:raw_cobalt"
+  },
+  "result": "metals:cobalt_ingot",
+  "experience": 0.7,
+  "cookingtime": 100
+}
